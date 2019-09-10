@@ -1,4 +1,4 @@
-module github.com/ZhiweiWang/gorose
+module github.com/ZhiweiWang/gorose/v2
 
 go 1.13
 
