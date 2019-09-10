@@ -1,6 +1,6 @@
-module github.com/gohouse/gorose
+module github.com/ZhiweiWang/gorose
 
-go 1.12
+go 1.13
 
 require (
 	github.com/gohouse/gocar v0.0.2
